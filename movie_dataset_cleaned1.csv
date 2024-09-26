@@ -1,0 +1,262 @@
+color,director_name,duration,gross,genres,movie_title,title_year,language,country,budget,imdb_score,actors,movie_facebook_likes,languange
+color,martin scorsese,240,116866727,biography,the wolf of wall street,2013,english,USA,100000000,8.2,leonardo dicapriomatthew mcconaugheyjon favreau,138000,english
+color,martin scorsese,240,116866727,comedy,the wolf of wall street,2013,english,USA,100000000,8.2,leonardo dicapriomatthew mcconaugheyjon favreau,138000,english
+color,martin scorsese,240,116866727,crime,the wolf of wall street,2013,english,USA,100000000,8.2,leonardo dicapriomatthew mcconaugheyjon favreau,138000,english
+color,martin scorsese,240,116866727,drama,the wolf of wall street,2013,english,USA,100000000,8.2,leonardo dicapriomatthew mcconaugheyjon favreau,138000,english
+color,shane black,195,408992272,action,iron man 3,2013,english,USA,200000000,7.2,robert downey jrjon favreaudon cheadle,95000,english
+color,shane black,195,408992272,adventure,iron man 3,2013,english,USA,200000000,7.2,robert downey jrjon favreaudon cheadle,95000,english
+color,shane black,195,408992272,scifi,iron man 3,2013,english,USA,200000000,7.2,robert downey jrjon favreaudon cheadle,95000,english
+color ,quentin tarantino,187,54116191,crime,the hateful eight,2015,english,USA,44000000,7.9,craig starkjennifer jason leighzoë bell,114000,english
+color ,quentin tarantino,187,54116191,drama,the hateful eight,2015,english,USA,44000000,7.9,craig starkjennifer jason leighzoë bell,114000,english
+color ,quentin tarantino,187,54116191,mystery,the hateful eight,2015,english,USA,44000000,7.9,craig starkjennifer jason leighzoë bell,114000,english
+color ,quentin tarantino,187,54116191,thriller,the hateful eight,2015,english,USA,44000000,7.9,craig starkjennifer jason leighzoë bell,114000,english
+color ,quentin tarantino,187,54116191,western,the hateful eight,2015,english,USA,44000000,7.9,craig starkjennifer jason leighzoë bell,114000,english
+color,kenneth lonergan,186,46495,drama,margaret,2011,english,usa,14000000,6.5,matt damonkieran culkinjohn gallagher jr,0,english
+color,peter jackson,186,258355354,adventure,the hobbit the desolation of smaug,2013,english,USA,225000000,7.9,aidan turneradam brownjames nesbitt,83000,english
+color,peter jackson,186,258355354,fantasy,the hobbit the desolation of smaug,2013,english,USA,225000000,7.9,aidan turneradam brownjames nesbitt,83000,english
+,,183,330249062,action,batman v superman dawn of justice,202,english,USA,250000000,6.9,henry cavilllauren cohanalan d purwin,197000,english
+,,183,330249062,adventure,batman v superman dawn of justice,202,english,USA,250000000,6.9,henry cavilllauren cohanalan d purwin,197000,english
+,,183,330249062,scifi,batman v superman dawn of justice,202,english,USA,250000000,6.9,henry cavilllauren cohanalan d purwin,197000,english
+color,peter jackson,-50,303001229,adventure,the hobbit an unexpected journey,2012,english,USA,180000000,7.9,aidan turneradam brownjames nesbitt,166000,english
+color,peter jackson,-50,303001229,fantasy,the hobbit an unexpected journey,2012,english,USA,180000000,7.9,aidan turneradam brownjames nesbitt,166000,english
+color,joss whedon,173,623279547,action,the avengers,2012,english,USA,220000000,8.1,chris hemsworthrobert downey jrscarlett johansson,123000,english
+color,joss whedon,173,623279547,adventure,the avengers,2012,english,USA,220000000,8.1,chris hemsworthrobert downey jrscarlett johansson,123000,english
+color,joss whedon,173,623279547,scifi,the avengers,2012,english,USA,220000000,8.1,chris hemsworthrobert downey jrscarlett johansson,123000,english
+color,joss whedon,173,623279547,action,the avengers,2012,english,USA,220000000,8.1,chris hemsworthrobert downey jrscarlett johansson,123000,english
+color,joss whedon,173,623279547,adventure,the avengers,2012,english,USA,220000000,8.1,chris hemsworthrobert downey jrscarlett johansson,123000,english
+color,joss whedon,173,623279547,scifi,the avengers,2012,english,USA,220000000,8.1,chris hemsworthrobert downey jrscarlett johansson,123000,english
+,tom tykwer,172,27098580,drama,cloud atlas,2012,english,Germany,102000000,-7.5,tom hanksjim sturgessjim broadbent,124000,english
+,tom tykwer,172,27098580,scifi,cloud atlas,2012,english,Germany,102000000,-7.5,tom hanksjim sturgessjim broadbent,124000,english
+color,null,158,102515793,crime,the girl with the dragon tattoo,2011,english,USA,90000000,7.8,robin wrightgoran visnjicjoely richardson,54000,english
+color,null,158,102515793,drama,the girl with the dragon tattoo,2011,english,USA,90000000,7.8,robin wrightgoran visnjicjoely richardson,54000,english
+color,null,158,102515793,mystery,the girl with the dragon tattoo,2011,english,USA,90000000,7.8,robin wrightgoran visnjicjoely richardson,54000,english
+color,null,158,102515793,thriller,the girl with the dragon tattoo,2011,english,USA,90000000,7.8,robin wrightgoran visnjicjoely richardson,54000,english
+color,christopher spencer,170,59696176,,son of god,2014,english,USA,22000000,5.6,roma downeyamber rose revahdarwin shaw,15000,english
+color,christopher nolan,169,187991439,adventure,interstellar,2014,english,USA,165000000,8.6,matthew mcconaugheyanne hathawaymackenzie foy,349000,english
+color,christopher nolan,169,187991439,drama,interstellar,2014,english,USA,165000000,8.6,matthew mcconaugheyanne hathawaymackenzie foy,349000,english
+color,christopher nolan,169,187991439,scifi,interstellar,2014,english,USA,165000000,8.6,matthew mcconaugheyanne hathawaymackenzie foy,349000,english
+color,f gary gray,167,161029270,biography,straight outta compton,2015,english,USA,28000000,7.9,aldis hodgeneil brown jrr marcos taylor,76000,english
+color,f gary gray,167,161029270,crime,straight outta compton,2015,english,USA,28000000,7.9,aldis hodgeneil brown jrr marcos taylor,76000,english
+color,f gary gray,167,161029270,drama,straight outta compton,2015,english,USA,28000000,7.9,aldis hodgeneil brown jrr marcos taylor,76000,english
+color,f gary gray,167,161029270,history,straight outta compton,2015,english,USA,28000000,7.9,aldis hodgeneil brown jrr marcos taylor,76000,english
+color,f gary gray,167,161029270,music,straight outta compton,2015,english,USA,28000000,7.9,aldis hodgeneil brown jrr marcos taylor,76000,english
+,richard linklater,165,25359200,drama,boyhood,2014,english,USA,4000000,8.0,ellar coltranelorelei linklaterlibby villari,92000,english
+color,quentin tarantino,580,162804648,drama,django unchained,2012,english,USA,100000000,8.5,leonardo dicapriochristoph waltzato essandoh,199000,english
+color,quentin tarantino,580,162804648,western,django unchained,2012,english,USA,100000000,8.5,leonardo dicapriochristoph waltzato essandoh,199000,english
+color,michael bay,165,245428137,action,transformers age of extinction,2014,english,USA,210000000,5.7,bingbing lisophia myleskelsey grammer,56000,english
+color,michael bay,165,245428137,adventure,transformers age of extinction,2014,english,USA,210000000,5.7,bingbing lisophia myleskelsey grammer,56000,english
+color,michael bay,165,245428137,scifi,transformers age of extinction,2014,english,USA,210000000,5.7,bingbing lisophia myleskelsey grammer,56000,english
+,christopher nolan,164,448130642,action,the dark knight rises,2012,english,USA,250000000,8.5,tom hardychristian balejoseph gordonlevitt,164000,english
+,christopher nolan,164,448130642,thriller,the dark knight rises,2012,english,USA,250000000,8.5,tom hardychristian balejoseph gordonlevitt,164000,english
+color,peter jackson,164,255108370,adventure,the hobbit the battle of the five armies,2014,english,New Zealand,250000000,7.5,aidan turneradam brownjames nesbitt,65000,english
+color,peter jackson,164,255108370,fantasy,the hobbit the battle of the five armies,2014,english,New Zealand,250000000,7.5,aidan turneradam brownjames nesbitt,65000,english
+color,tom hooper,158,148775460,drama,les misérables,2012,english,USA,61000000,7.6,hugh jackmaneddie redmayneanne hathaway,144000,english
+color,tom hooper,158,148775460,musical,les misérables,2012,english,USA,61000000,7.6,hugh jackmaneddie redmayneanne hathaway,144000,english
+color,tom hooper,158,148775460,romance,les misérables,2012,english,USA,61000000,7.6,hugh jackmaneddie redmayneanne hathaway,144000,english
+color,tom hooper,158,148775460,drama,les misérables,2012,english,USA,61000000,7.6,hugh jackmaneddie redmayneanne hathaway,144000,english
+color,tom hooper,158,148775460,musical,les misérables,2012,english,USA,61000000,7.6,hugh jackmaneddie redmayneanne hathaway,144000,english
+color,tom hooper,158,148775460,romance,les misérables,2012,english,USA,61000000,7.6,hugh jackmaneddie redmayneanne hathaway,144000,english
+color,kathryn bigelow,157,95720716,drama,zero dark thirty,2012,english,USA,40000000,7.4,jennifer ehleharold perrineauparker sawyers,39000,english
+color,kathryn bigelow,157,95720716,history,zero dark thirty,2012,english,USA,40000000,7.4,jennifer ehleharold perrineauparker sawyers,39000,english
+color,kathryn bigelow,157,95720716,thriller,zero dark thirty,2012,english,USA,40000000,7.4,jennifer ehleharold perrineauparker sawyers,39000,english
+color,ridley scott,156,105219735,action,robin hood,2010,english,USA,200000000,6.7,mark addywilliam hurtscott grimes,17000,english
+color,ridley scott,156,105219735,adventure,robin hood,2010,english,USA,200000000,6.7,mark addywilliam hurtscott grimes,17000,english
+color,ridley scott,156,105219735,drama,robin hood,2010,english,USA,200000000,6.7,mark addywilliam hurtscott grimes,17000,english
+color,ridley scott,156,105219735,history,robin hood,2010,english,USA,200000000,6.7,mark addywilliam hurtscott grimes,17000,english
+color,,156,183635922,adventure,the revenant,2015,english,USA,135000000,8.1,leonardo dicapriotom hardylukas haas,190000,english
+color,,156,183635922,drama,the revenant,2015,english,USA,135000000,8.1,leonardo dicapriotom hardylukas haas,190000,english
+color,,156,183635922,thriller,the revenant,2015,english,USA,135000000,8.1,leonardo dicapriotom hardylukas haas,190000,english
+color,,156,183635922,western,the revenant,2015,english,USA,135000000,8.1,leonardo dicapriotom hardylukas haas,190000,english
+color,michael bay,154,352358779,action,transformers dark of the moon,2011,english,USA,195000000,6.3,glenn morshowerlester speightkevin dunn,46000,english
+color,michael bay,154,352358779,adventure,transformers dark of the moon,2011,english,USA,195000000,6.3,glenn morshowerlester speightkevin dunn,46000,english
+color,michael bay,154,352358779,scifi,transformers dark of the moon,2011,english,USA,195000000,6.3,glenn morshowerlester speightkevin dunn,46000,english
+color,denis villeneuve,153,60962878,crime,prisoners,2013,english,USA,46000000,8.1,hugh jackmanjake gyllenhaaldylan minnette,86000,english
+color,denis villeneuve,153,60962878,drama,prisoners,2013,english,USA,46000000,8.1,hugh jackmanjake gyllenhaaldylan minnette,86000,english
+color,denis villeneuve,153,60962878,mystery,prisoners,2013,english,USA,46000000,8.1,hugh jackmanjake gyllenhaaldylan minnette,86000,english
+color,denis villeneuve,153,60962878,thriller,prisoners,2013,english,USA,46000000,8.1,hugh jackmanjake gyllenhaaldylan minnette,86000,english
+color,marc webb,153,262030663,action,the amazing spiderman,2012,english,USA,230000000,7.0,emma stoneandrew garfieldchris zylka,56000,english
+color,marc webb,153,262030663,adventure,the amazing spiderman,2012,english,USA,230000000,7.0,emma stoneandrew garfieldchris zylka,56000,english
+color,marc webb,153,262030663,fantasy,the amazing spiderman,2012,english,USA,230000000,7.0,emma stoneandrew garfieldchris zylka,56000,english
+color,nan,151,228430993,adventure,the martian,2015,english,USA,108000000,8.1,matt damondonald gloverbenedict wong,153000,english
+color,nan,151,228430993,drama,the martian,2015,english,USA,108000000,8.1,matt damondonald gloverbenedict wong,153000,english
+color,nan,151,228430993,scifi,the martian,2015,english,USA,108000000,8.1,matt damondonald gloverbenedict wong,153000,english
+color,ridley scott,150,65007045,action,exodus gods and kings,2014,english,UK,140000000,6.1,christian balemaría valverdeben mendelsohn,51000,english
+color,ridley scott,150,65007045,adventure,exodus gods and kings,2014,english,UK,140000000,6.1,christian balemaría valverdeben mendelsohn,51000,english
+color,ridley scott,150,65007045,drama,exodus gods and kings,2014,english,UK,140000000,6.1,christian balemaría valverdeben mendelsohn,51000,english
+color,ridley scott,150,65007045,action,exodus gods and kings,2014,english,UK,140000000,6.1,christian balemaría valverdeben mendelsohn,51000,english
+color,ridley scott,150,65007045,adventure,exodus gods and kings,2014,english,UK,140000000,6.1,christian balemaría valverdeben mendelsohn,51000,english
+color,ridley scott,150,65007045,drama,exodus gods and kings,2014,english,UK,140000000,6.1,christian balemaría valverdeben mendelsohn,51000,english
+color,,150,182204440,biography,lincoln,2012,english,USA,65000000,7.4,joseph gordonlevitthal holbrookbruce mcgill,71000,english
+color,,150,182204440,drama,lincoln,2012,english,USA,65000000,7.4,joseph gordonlevitthal holbrookbruce mcgill,71000,english
+color,,150,182204440,history,lincoln,2012,english,USA,65000000,7.4,joseph gordonlevitthal holbrookbruce mcgill,71000,english
+color,,150,182204440,war,lincoln,2012,english,USA,65000000,7.4,joseph gordonlevitthal holbrookbruce mcgill,71000,english
+color,gore verbinski,650,89289910,action,the lone ranger,2013,english,USA,215000000,6.5,johnny deppruth wilsontom wilkinson,48000,english
+color,gore verbinski,650,89289910,adventure,the lone ranger,2013,english,USA,215000000,6.5,johnny deppruth wilsontom wilkinson,48000,english
+color,gore verbinski,650,89289910,western,the lone ranger,2013,english,USA,215000000,6.5,johnny deppruth wilsontom wilkinson,48000,english
+color,david fincher,149,167735396,crime,gone girl,2014,english,USA,61000000,8.1,patrick fugitsela wardemily ratajkowski,146000,english
+color,david fincher,149,167735396,drama,gone girl,2014,english,USA,61000000,8.1,patrick fugitsela wardemily ratajkowski,146000,english
+color,david fincher,149,167735396,mystery,gone girl,2014,english,USA,61000000,8.1,patrick fugitsela wardemily ratajkowski,146000,english
+color,david fincher,149,167735396,thriller,gone girl,2014,english,USA,61000000,8.1,patrick fugitsela wardemily ratajkowski,146000,english
+color,bryan singer,149,233914986,action,xmen days of future past,2014,english,United States,200000000,8.0,jennifer lawrencepeter dinklagehugh jackman,82000,english
+color,bryan singer,149,233914986,adventure,xmen days of future past,2014,english,United States,200000000,8.0,jennifer lawrencepeter dinklagehugh jackman,82000,english
+color,bryan singer,149,233914986,fantasy,xmen days of future past,2014,english,United States,200000000,8.0,jennifer lawrencepeter dinklagehugh jackman,82000,english
+color,bryan singer,149,233914986,scifi,xmen days of future past,2014,english,United States,200000000,8.0,jennifer lawrencepeter dinklagehugh jackman,82000,english
+color,bryan singer,149,233914986,thriller,xmen days of future past,2014,english,United States,200000000,8.0,jennifer lawrencepeter dinklagehugh jackman,82000,english
+color,christopher nolan,148,292568851,action,inception,2010,english,USA,160000000,8.8,leonardo dicapriotom hardyjoseph gordonlevitt,175000,english
+color,christopher nolan,148,292568851,adventure,inception,2010,english,USA,160000000,8.8,leonardo dicapriotom hardyjoseph gordonlevitt,175000,english
+color,christopher nolan,148,292568851,scifi,inception,2010,english,USA,160000000,8.8,leonardo dicapriotom hardyjoseph gordonlevitt,175000,english
+color,christopher nolan,148,292568851,thriller,inception,2010,english,USA,160000000,8.8,leonardo dicapriotom hardyjoseph gordonlevitt,175000,english
+color,paul thomas anderson,148,8093318,comedy,inherent vice,2014,english,USA,20000000,6.7,martin dewkatherine waterstonserena scott thomas,18000,english
+color,paul thomas anderson,148,8093318,crime,inherent vice,2014,english,USA,20000000,6.7,martin dewkatherine waterstonserena scott thomas,18000,english
+color,paul thomas anderson,148,8093318,drama,inherent vice,2014,english,USA,20000000,6.7,martin dewkatherine waterstonserena scott thomas,18000,english
+color,paul thomas anderson,148,8093318,mystery,inherent vice,2014,english,USA,20000000,6.7,martin dewkatherine waterstonserena scott thomas,18000,english
+color,paul thomas anderson,148,8093318,romance,inherent vice,2014,english,USA,20000000,6.7,martin dewkatherine waterstonserena scott thomas,18000,english
+color,sam mendes,148,200074175,action,spectre,2015,english,UK,245000000,6.8,christoph waltzrory kinnearstephanie sigman,85000,english
+color,sam mendes,148,200074175,adventure,spectre,2015,english,UK,245000000,6.8,christoph waltzrory kinnearstephanie sigman,85000,english
+color,sam mendes,148,200074175,thriller,spectre,2015,english,UK,245000000,6.8,christoph waltzrory kinnearstephanie sigman,85000,english
+color,,147,407197282,action,captain america civil war,2016,english,USA,250000000,8.2,robert downey jrscarlett johanssonchris evans,72000,english
+color,,147,407197282,adventure,captain america civil war,2016,english,USA,250000000,8.2,robert downey jrscarlett johanssonchris evans,72000,english
+color,,147,407197282,scifi,captain america civil war,2016,english,USA,250000000,8.2,robert downey jrscarlett johanssonchris evans,72000,english
+color,michael patrick king,146,95328937,comedy,sex and the city 2,2010,english,USA,100000000,4.3,chris nothliza minnellikristin davis,0,english
+color,michael patrick king,146,95328937,drama,sex and the city 2,2010,english,USA,100000000,4.3,chris nothliza minnellikristin davis,0,english
+color,michael patrick king,146,95328937,romance,sex and the city 2,2010,english,USA,100000000,4.3,chris nothliza minnellikristin davis,0,english
+color,tate taylor,146,169705587,drama,the help,2011,english,USA,25000000,8.1,emma stonebryce dallas howardmike vogel,75000,english
+color,francis lawrence,146,424645577,adventure,the hunger games catching fire,2013,english,USA,130000000,7.6,jennifer lawrencejosh hutchersonsandra ellis lafferty,82000,english
+color,francis lawrence,146,424645577,scifi,the hunger games catching fire,2013,english,USA,130000000,7.6,jennifer lawrencejosh hutchersonsandra ellis lafferty,82000,english
+color,francis lawrence,146,424645577,thriller,the hunger games catching fire,2013,english,USA,130000000,7.6,jennifer lawrencejosh hutchersonsandra ellis lafferty,82000,english
+ black and white,steven spielberg,146,79883359,drama,war horse,2011,english,usa,66000000,7.2,jeremy irvinebenedict cumberbatcheddie marsan,28000,english
+ black and white,steven spielberg,146,79883359,war,war horse,2011,english,usa,66000000,7.2,jeremy irvinebenedict cumberbatcheddie marsan,28000,english
+color,michael bay,144,52822418,action,13 hours,2016,english,USA,50000000,7.4,toby stephensjames badge daledavid costabile,44000,english
+color,michael bay,144,52822418,drama,13 hours,2016,english,USA,50000000,7.4,toby stephensjames badge daledavid costabile,44000,english
+color,michael bay,144,52822418,thriller,13 hours,2016,english,USA,50000000,7.4,toby stephensjames badge daledavid costabile,44000,english
+color,michael bay,144,52822418,war,13 hours,2016,english,USA,50000000,7.4,toby stephensjames badge daledavid costabile,44000,english
+color,guillaume canet,144,41229,crime,blood ties,2013,english,France,25500000,6.5,mila kunislili taylorbilly crudup,0,english
+color,guillaume canet,144,41229,drama,blood ties,2013,english,France,25500000,6.5,mila kunislili taylorbilly crudup,0,english
+color,guillaume canet,144,41229,thriller,blood ties,2013,english,France,25500000,6.5,mila kunislili taylorbilly crudup,0,english
+color,paul thomas anderson,144,16377274,drama,the master,2012,english,USA,32000000,7.1,mike howardjeffrey w jenkinsbruce goodchild,27000,english
+color,bryan singer,144,154985087,action,xmen apocalypse,2016,english,USA,178000000,7.3,jennifer lawrencemichael fassbendertye sheridan,54000,english
+color,bryan singer,144,154985087,adventure,xmen apocalypse,2016,english,USA,178000000,7.3,jennifer lawrencemichael fassbendertye sheridan,54000,english
+color,bryan singer,144,154985087,scifi,xmen apocalypse,2016,english,USA,178000000,7.3,jennifer lawrencemichael fassbendertye sheridan,54000,english
+color,adam mckay,143,2175312,comedy,anchorman 2 the legend continues,2013,english,USA,50000000,6.3,harrison fordwill ferrellsteve carell,41000,english
+color,zack snyder,143,291021565,action,man of steel,2013,english,USA,225000000,7.2,henry cavillchristopher meloniharry lennix,118000,english
+color,zack snyder,143,291021565,adventure,man of steel,2013,english,USA,225000000,7.2,henry cavillchristopher meloniharry lennix,118000,english
+color,zack snyder,143,291021565,fantasy,man of steel,2013,english,USA,225000000,7.2,henry cavillchristopher meloniharry lennix,118000,english
+color,zack snyder,143,291021565,scifi,man of steel,2013,english,USA,225000000,7.2,henry cavillchristopher meloniharry lennix,118000,english
+color,sam mendes,143,304360277,action,skyfall,2012,english,UK,200000000,7.8,albert finneyhelen mccroryrory kinnear,80000,english
+color,sam mendes,143,304360277,adventure,skyfall,2012,english,UK,200000000,7.8,albert finneyhelen mccroryrory kinnear,80000,english
+color,sam mendes,143,304360277,thriller,skyfall,2012,english,UK,200000000,7.8,albert finneyhelen mccroryrory kinnear,80000,english
+color,sam mendes,143,304360277,action,skyfall,2012,english,UK,200000000,7.8,albert finneyhelen mccroryrory kinnear,80000,english
+color,sam mendes,143,304360277,adventure,skyfall,2012,english,UK,200000000,7.8,albert finneyhelen mccroryrory kinnear,80000,english
+color,sam mendes,143,304360277,thriller,skyfall,2012,english,UK,200000000,7.8,albert finneyhelen mccroryrory kinnear,80000,english
+color,baz luhrmann,143,144812796,drama,the great gatsby,2013,english,Australia,105000000,7.3,leonardo dicaprioelizabeth debickisteve bisley,115000,english
+color,baz luhrmann,143,144812796,romance,the great gatsby,2013,english,Australia,105000000,7.3,leonardo dicaprioelizabeth debickisteve bisley,115000,english
+color,baz luhrmann,143,144812796,drama,the great gatsby,2013,english,Australia,105000000,7.3,leonardo dicaprioelizabeth debickisteve bisley,115000,english
+color,baz luhrmann,143,144812796,romance,the great gatsby,2013,english,Australia,105000000,7.3,leonardo dicaprioelizabeth debickisteve bisley,115000,english
+color,steven spielberg,142,72306065,drama,bridge of spies,2015,english,USA,40000000,7.6,tom hanksmark rylanceamy ryan,55000,english
+color,steven spielberg,142,72306065,history,bridge of spies,2015,english,USA,40000000,7.6,tom hanksmark rylanceamy ryan,55000,english
+color,steven spielberg,142,72306065,thriller,bridge of spies,2015,english,USA,40000000,7.6,tom hanksmark rylanceamy ryan,55000,english
+color,marc webb,142,202853933,action,the amazing spiderman 2,2014,english,USA,200000000,6.7,emma stoneandrew garfieldbj novak,41000,english
+color,marc webb,142,202853933,adventure,the amazing spiderman 2,2014,english,USA,200000000,6.7,emma stoneandrew garfieldbj novak,41000,english
+color,marc webb,142,202853933,fantasy,the amazing spiderman 2,2014,english,USA,200000000,6.7,emma stoneandrew garfieldbj novak,41000,english
+color,marc webb,142,202853933,scifi,the amazing spiderman 2,2014,english,USA,200000000,6.7,emma stoneandrew garfieldbj novak,41000,english
+color,,142,407999255,adventure,the hunger games,2012,english,USA,78000000,7.3,jennifer lawrencejosh hutchersonanthony reynolds,140000,english
+color,,142,407999255,drama,the hunger games,2012,english,USA,78000000,7.3,jennifer lawrencejosh hutchersonanthony reynolds,140000,english
+color,,142,407999255,scifi,the hunger games,2012,english,USA,78000000,7.3,jennifer lawrencejosh hutchersonanthony reynolds,140000,english
+color,,142,407999255,thriller,the hunger games,2012,english,USA,78000000,7.3,jennifer lawrencejosh hutchersonanthony reynolds,140000,english
+color,joss whedon,141,458991599,action,avengers age of ultron,2015,english,USA,250000000,7.5,chris hemsworthrobert downey jrscarlett johansson,118000,english
+color,joss whedon,141,458991599,adventure,avengers age of ultron,2015,english,USA,250000000,7.5,chris hemsworthrobert downey jrscarlett johansson,118000,english
+color,joss whedon,141,458991599,scifi,avengers age of ultron,2015,english,USA,250000000,7.5,chris hemsworthrobert downey jrscarlett johansson,118000,english
+color,justin chadwick,141,8324748,biography,mandela long walk to freedom,2013,english,UK,35000000,7.1,terry phetofana mokoenatony kgoroge,13000,english
+color,justin chadwick,141,8324748,drama,mandela long walk to freedom,2013,english,UK,35000000,7.1,terry phetofana mokoenatony kgoroge,13000,english
+color,justin chadwick,141,8324748,history,mandela long walk to freedom,2013,english,UK,35000000,7.1,terry phetofana mokoenatony kgoroge,13000,english
+,oliver stone,141,47307550,crime,savages,2012,english,USA,45000000,6.5,demián bichirshea whighamgary stretch,28000,english
+,oliver stone,141,47307550,drama,savages,2012,english,USA,45000000,6.5,demián bichirshea whighamgary stretch,28000,english
+,oliver stone,141,47307550,thriller,savages,2012,english,USA,45000000,6.5,demián bichirshea whighamgary stretch,28000,english
+color,david dobkin,141,47105085,crime,the judge,2014,english,USA,50000000,7.4,robert downey jrrobert duvallleighton meester,47000,english
+color,david dobkin,141,47105085,drama,the judge,2014,english,USA,50000000,7.4,robert downey jrrobert duvallleighton meester,47000,english
+color,ryan murphy,140,80574010,drama,eat pray love,2010,english,USA,60000000,5.7,james francojulia robertsbilly crudup,26000,english
+color,ryan murphy,140,80574010,romance,eat pray love,2010,english,USA,60000000,5.7,james francojulia robertsbilly crudup,26000,english
+color,james wan,140,350034110,action,furious 7,2015,english,USA,190000000,7.2,jason stathampaul walkervin diesel,94000,english
+color,james wan,140,350034110,crime,furious 7,2015,english,USA,190000000,7.2,jason stathampaul walkervin diesel,94000,english
+color,james wan,140,350034110,thriller,furious 7,2015,english,USA,190000000,7.2,jason stathampaul walkervin diesel,94000,english
+color,derek cianfrance,140,21383298,crime,the place beyond the pines,2012,english,USA,15000000,7.3,ryan goslingben mendelsohnangelo anthony pizza,47000,english
+color,derek cianfrance,140,21383298,drama,the place beyond the pines,2012,english,USA,15000000,7.3,ryan goslingben mendelsohnangelo anthony pizza,47000,english
+color,derek cianfrance,140,21383298,thriller,the place beyond the pines,2012,english,USA,15000000,7.3,ryan goslingben mendelsohnangelo anthony pizza,47000,english
+color,gavin oconnor,140,13651662,drama,warrior,2011,english,USA,25000000,8.2,tom hardyfrank grillokevin dunn,77000,english
+color,gavin oconnor,140,13651662,sport,warrior,2011,english,USA,25000000,8.2,tom hardyfrank grillokevin dunn,77000,english
+color,,139,150832203,adventure,divergent,2014,english,USA,85000000,6.7,kate winslettheo jamesmekhi phifer,49000,english
+color,,139,150832203,mystery,divergent,2014,english,USA,85000000,6.7,kate winslettheo jamesmekhi phifer,49000,english
+color,,139,150832203,scifi,divergent,2014,english,USA,85000000,6.7,kate winslettheo jamesmekhi phifer,49000,english
+color,gary ross,139,20389967,action,free state of jones,2016,english,USA,50000000,6.7,matthew mcconaugheydonald watkinsjessica collins,10000,english
+color,gary ross,139,20389967,biography,free state of jones,2016,english,USA,50000000,6.7,matthew mcconaugheydonald watkinsjessica collins,10000,english
+color,gary ross,139,20389967,drama,free state of jones,2016,english,USA,50000000,6.7,matthew mcconaugheydonald watkinsjessica collins,10000,english
+color,gary ross,139,20389967,history,free state of jones,2016,english,USA,50000000,6.7,matthew mcconaugheydonald watkinsjessica collins,10000,english
+color,gary ross,139,20389967,war,free state of jones,2016,english,USA,50000000,6.7,matthew mcconaugheydonald watkinsjessica collins,10000,english
+color,tate taylor,139,30513940,biography,get on up,2014,english,USA,30000000,6.9,tika sumpterjosh hopkinsaunjanue ellis,11000,english
+color,tate taylor,139,30513940,drama,get on up,2014,english,USA,30000000,6.9,tika sumpterjosh hopkinsaunjanue ellis,11000,english
+color,tate taylor,139,30513940,music,get on up,2014,english,USA,30000000,6.9,tika sumpterjosh hopkinsaunjanue ellis,11000,english
+,terrence malick,139,13303319,drama,the tree of life,2011,english,USA,32000000,6.7,brad pitttye sheridanfiona shaw,39000,english
+,terrence malick,139,13303319,fantasy,the tree of life,2011,english,USA,32000000,6.7,brad pitttye sheridanfiona shaw,39000,english
+color,,138,150117807,crime,american hustle,2013,english,USA,40000000,7.3,jennifer lawrencechristian balebradley cooper,63000,english
+color,,138,150117807,drama,american hustle,2013,english,USA,40000000,7.3,jennifer lawrencechristian balebradley cooper,63000,english
+,robert zemeckis,138,93749203,drama,flight,2012,english,USA,31000000,7.3,denzel washingtonbruce greenwoodnadine velazquez,64000,english
+,robert zemeckis,138,93749203,thriller,flight,2012,english,USA,31000000,7.3,denzel washingtonbruce greenwoodnadine velazquez,64000,english
+color,darren aronofsky,138,101160529,action,noah,2014,english,USA,125000000,5.8,anthony hopkinsemma watsonlogan lerman,71000,english
+color,darren aronofsky,138,101160529,adventure,noah,2014,english,USA,125000000,5.8,anthony hopkinsemma watsonlogan lerman,71000,english
+color,darren aronofsky,138,101160529,drama,noah,2014,english,USA,125000000,5.8,anthony hopkinsemma watsonlogan lerman,71000,english
+color,martin scorsese,138,127968405,mystery,shutter island,2010,english,USA,80000000,8.1,leonardo dicapriojoseph sikoranellie sciutto,53000,english
+color,martin scorsese,138,127968405,thriller,shutter island,2010,english,USA,80000000,8.1,leonardo dicapriojoseph sikoranellie sciutto,53000,english
+color,ridley scott,138,16969390,crime,the counselor,2013,english,USA,25000000,5.3,michael fassbenderbrad pittgoran visnjic,24000,english
+color,ridley scott,138,16969390,drama,the counselor,2013,english,USA,25000000,5.3,michael fassbenderbrad pittgoran visnjic,24000,english
+color,ridley scott,138,16969390,thriller,the counselor,2013,english,USA,25000000,5.3,michael fassbenderbrad pittgoran visnjic,24000,english
+,james mangold,138,132550960,action,the wolverine,2013,english,USA,120000000,6.7,hugh jackmantao okamotorila fukushima,68000,english
+,james mangold,138,132550960,adventure,the wolverine,2013,english,USA,120000000,6.7,hugh jackmantao okamotorila fukushima,68000,english
+,james mangold,138,132550960,scifi,the wolverine,2013,english,USA,120000000,6.7,hugh jackmantao okamotorila fukushima,68000,english
+,james mangold,138,132550960,thriller,the wolverine,2013,english,USA,120000000,6.7,hugh jackmantao okamotorila fukushima,68000,english
+color,daniel espinosa,137,1206135,crime,child 44,205,english,Czech Republic,50000000,6.4,tom hardyfares faresmichael nardone,18000,english
+color,daniel espinosa,137,1206135,drama,child 44,205,english,Czech Republic,50000000,6.4,tom hardyfares faresmichael nardone,18000,english
+color,daniel espinosa,137,1206135,thriller,child 44,205,english,Czech Republic,50000000,6.4,tom hardyfares faresmichael nardone,18000,english
+color,,137,37304950,biography,j edgar,2011,english,USA,35000000,6.6,leonardo dicaprionaomi wattskaitlyn dever,16000,english
+color,,137,37304950,crime,j edgar,2011,english,USA,35000000,6.6,leonardo dicaprionaomi wattskaitlyn dever,16000,english
+color,,137,37304950,drama,j edgar,2011,english,USA,35000000,6.6,leonardo dicaprionaomi wattskaitlyn dever,16000,english
+,walter salles,137,717753,adventure,on the road,2012,english,France,25000000,6.1,kristen stewartviggo mortensenkirsten dunst,27000,english
+,walter salles,137,717753,drama,on the road,2012,english,France,25000000,6.1,kristen stewartviggo mortensenkirsten dunst,27000,english
+color,,137,281666058,adventure,the hunger games mockingjay part 2,2015,english,USA,160000000,6.6,jennifer lawrencephilip seymour hoffmanjosh hutcherson,38000,english
+color,,137,281666058,scifi,the hunger games mockingjay part 2,2015,english,USA,160000000,6.6,jennifer lawrencephilip seymour hoffmanjosh hutcherson,38000,english
+color,angelina jolie pitt,137,115603980,biography,unbroken,2014,english,USA,65000000,-1.2,finn wittrockjack oconnellalex russell,35000,english
+color,angelina jolie pitt,137,115603980,drama,unbroken,2014,english,USA,65000000,-1.2,finn wittrockjack oconnellalex russell,35000,english
+color,angelina jolie pitt,137,115603980,sport,unbroken,2014,english,USA,65000000,-1.2,finn wittrockjack oconnellalex russell,35000,english
+color,angelina jolie pitt,137,115603980,war,unbroken,2014,english,USA,65000000,-1.2,finn wittrockjack oconnellalex russell,35000,english
+color,angelina jolie pitt,137,115603980,biography,unbroken,2014,english,USA,65000000,7.2,finn wittrockjack oconnellalex russell,35000,english
+color,angelina jolie pitt,137,115603980,drama,unbroken,2014,english,USA,65000000,7.2,finn wittrockjack oconnellalex russell,35000,english
+color,angelina jolie pitt,137,115603980,sport,unbroken,2014,english,USA,65000000,7.2,finn wittrockjack oconnellalex russell,35000,english
+color,angelina jolie pitt,137,115603980,war,unbroken,2014,english,USA,65000000,7.2,finn wittrockjack oconnellalex russell,35000,english
+,seth macfarlane,136,42615685,comedy,a million ways to die in the west,2014,english,USA,40000000,6.1,liam neesoncharlize theronseth macfarlane,24000,english
+,seth macfarlane,136,42615685,western,a million ways to die in the west,2014,english,USA,40000000,6.1,liam neesoncharlize theronseth macfarlane,24000,english
+color,anthony russo,136,259746958,action,captain america the winter soldier,2014,english,usa,170000000,7.8,scarlett johanssonchris evanshayley atwell,55000,english
+color,anthony russo,136,259746958,adventure,captain america the winter soldier,2014,english,usa,170000000,7.8,scarlett johanssonchris evanshayley atwell,55000,english
+color,anthony russo,136,259746958,scifi,captain america the winter soldier,2014,english,usa,170000000,7.8,scarlett johanssonchris evanshayley atwell,55000,english
+color,rob marshall,136,241063875,action,pirates of the caribbean on stranger tides,2011,english,USA,250000000,6.7,johnny deppsam claflinstephen graham,58000,english
+color,rob marshall,136,241063875,adventure,pirates of the caribbean on stranger tides,2011,english,USA,250000000,6.7,johnny deppsam claflinstephen graham,58000,english
+color,rob marshall,136,241063875,fantasy,pirates of the caribbean on stranger tides,2011,english,USA,250000000,6.7,johnny deppsam claflinstephen graham,58000,english
+color,adam shankman,136,38509342,comedy,rock of ages,2012,english,USA,75000000,5.9,james martin kellyshane hartlinecelina beach,33000,english
+color,adam shankman,136,38509342,drama,rock of ages,2012,english,USA,75000000,5.9,james martin kellyshane hartlinecelina beach,33000,english
+color,adam shankman,136,38509342,musical,rock of ages,2012,english,USA,75000000,5.9,james martin kellyshane hartlinecelina beach,33000,english
+color,adam shankman,136,38509342,romance,rock of ages,2012,english,USA,75000000,5.9,james martin kellyshane hartlinecelina beach,33000,english
+color,,136,52474616,drama,wall street money never sleeps,2010,english,USA,70000000,6.3,frank langellaaustin pendletonjohn buffalo mailer,13000,english
+color,tony gilroy,135,113165635,action,the bourne legacy,2012,english,USA,125000000,6.7,jeremy rennerscott glennstacy keach,31000,english
+color,tony gilroy,135,113165635,adventure,the bourne legacy,2012,english,USA,125000000,6.7,jeremy rennerscott glennstacy keach,31000,english
+color,tony gilroy,135,113165635,thriller,the bourne legacy,2012,english,USA,125000000,6.7,jeremy rennerscott glennstacy keach,31000,english
+color,steve mcqueen,134,56667870,biography,12 years a slave,2013,english,USA,20000000,8.1,quvenzhané wallisscoot mcnairytaran killam,83000,english
+color,steve mcqueen,134,56667870,drama,12 years a slave,2013,english,USA,20000000,8.1,quvenzhané wallisscoot mcnairytaran killam,83000,english
+color,steve mcqueen,134,56667870,history,12 years a slave,2013,english,USA,20000000,8.1,quvenzhané wallisscoot mcnairytaran killam,83000,english
+color,paul greengrass,134,107100855,biography,captain phillips,2013,english,USA,55000000,7.9,tom hankschris mulkeymichael chernus,65000,english
+color,paul greengrass,134,107100855,drama,captain phillips,2013,english,USA,55000000,7.9,tom hankschris mulkeymichael chernus,65000,english
+color,paul greengrass,134,107100855,thriller,captain phillips,2013,english,USA,55000000,7.9,tom hankschris mulkeymichael chernus,65000,english
+color,david ayer,134,85707116,action,fury,2014,english,USA,68000000,7.6,brad pittlogan lermanjim parrack,82000,english
+color,david ayer,134,85707116,drama,fury,2014,english,USA,68000000,7.6,brad pittlogan lermanjim parrack,82000,english
+color,david ayer,134,85707116,war,fury,2014,english,USA,68000000,7.6,brad pittlogan lermanjim parrack,82000,english
+color,clint eastwood,5,47034272,biography,jersey boys,2014,english,USA,40000000,6.9,johnny cannizzarosteve schirripascott vance,16000,english
+color,clint eastwood,5,47034272,drama,jersey boys,2014,english,USA,40000000,6.9,johnny cannizzarosteve schirripascott vance,16000,english
+color,clint eastwood,5,47034272,music,jersey boys,2014,english,USA,40000000,6.9,johnny cannizzarosteve schirripascott vance,16000,english
+color,clint eastwood,5,47034272,musical,jersey boys,2014,english,USA,40000000,6.9,johnny cannizzarosteve schirripascott vance,16000,english
